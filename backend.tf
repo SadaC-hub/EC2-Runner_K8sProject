@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket         = ****CHANGEBUCKETNAME***
+    bucket         = "dsop-bucket-dev-001"
     region         = "eu-west-2"
     key            = "Github-Runner-TF/terraform.tfstate"
     encrypt        = true
@@ -13,3 +13,4 @@ terraform {
     }
   }
 }
+
