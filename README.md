@@ -23,8 +23,7 @@ It is responsible for:
 - Preparing the execution environment for downstream CI/CD pipelines and application deployments
 - Enabling integration with **security and runtime tooling** such as Falco, Trivy, and SonarQube
 
-As **Repo 1**, this project establishes the shared infrastructure and execution layer that  
-**[Repo 2](https://github.com/SadaC-hub/KubernetesProject)** builds upon to implement application delivery, security scanning, and automated deployment workflows.
+As **Repo 1**, this project establishes the shared infrastructure and execution layer that **[Repo 2](https://github.com/SadaC-hub/KubernetesProject)** builds upon to implement application delivery, security scanning, and automated deployment workflows.
 
 ---
 
