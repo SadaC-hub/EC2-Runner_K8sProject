@@ -25,6 +25,9 @@ It is responsible for:
 
 As **Repo 1**, this project establishes the shared infrastructure and execution layer that **[Repo 2](https://github.com/SadaC-hub/KubernetesProject)** builds upon to implement application delivery, security scanning, and automated deployment workflows.
 
+![Last Commit](https://img.shields.io/github/last-commit/SadaC-hub/KubernetesProject)
+![Open Issues](https://img.shields.io/github/issues/SadaC-hub/KubernetesProject)
+![License](https://img.shields.io/github/license/SadaC-hub/KubernetesProject)
 ---
 
 ## Architecture Diagram
